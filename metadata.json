@@ -1,0 +1,5 @@
+{
+  "name": "Radix Dictionary",
+  "description": "An interactive English Dictionary powered by a Radix Trie data structure, featuring visual step-by-step tree traversal animations.",
+  "requestFramePermissions": []
+}
